@@ -21,7 +21,7 @@ def entropyProf():
     r500a98nArcmin = r200a98nArcmin/1.7
     r200a98n = r200a98nArcmin*60.*1.913/1.e3 #Mpc
     r500a98n = r500a98nArcmin*60.*1.913/1.e3
-    t200a98n = 2.78
+    t200a98n = 2.9
 
     ra98s = np.linspace(15,1,100)
     r200a98sArcmin = 10.9
